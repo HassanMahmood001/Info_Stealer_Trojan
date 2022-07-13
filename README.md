@@ -1,5 +1,5 @@
 # Info_Stealer_Trojan
-A trojan capable of stealing system information form the victums PC and send the report to the remote server.
+A trojan capable of stealing system information form the victims PC and send the report to the remote server.
 Reconnaissance is an important step in exploring an area to steal confidential information. It also plays a key role in penetration testing. The trojan developed will aid pen testers to gather information about the targets systems in a stealthy and effective way. 
 
 ## Information Stolen

@@ -7,7 +7,7 @@ Reconnaissance is an important step in exploring an area to steal confidential i
  
 
 # Note
-Please note, this repo is for educational purposes only. Don't use the Keylogger for illegal activities. You are the only one responsible for your actions! 
+Please note, this repo is for educational purposes only. Don't use this product for illegal activities. You are the only one responsible for your actions! 
 
 ## Requirement
 * Python 3.x \

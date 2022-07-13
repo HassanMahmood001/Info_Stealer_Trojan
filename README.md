@@ -14,7 +14,7 @@ The sysinfo_Final.cpp is the payload used to extract information from the victum
 Using the main.py to run the executable using the python program, enter the details of your remote server where you want to recieve the reports. The python program is converted to and executable using auto-py-to-exe and a pdf icon is used for the .exe. The extension of the executable is changed using right-to-left override. 
 
  ## Demo 
- ![Results](https://github.com/HassanMahmood001/Keylogger/blob/main/Keylogger-Demo.gif)
+ ![Results](https://github.com/HassanMahmood001/Info_Stealer_Trojan/blob/main/Trojan-Info-Stealer.gif)
 
 ## Google Form
 
